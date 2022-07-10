@@ -1,0 +1,8 @@
+sqlalchemy
+python-binance
+pandas
+psycopg2
+python-coinmarketcap
+alpaca-trade-api
+twelvedata
+forex-python

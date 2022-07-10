@@ -1,0 +1,14 @@
+#PYTHON
+**/__pycache__/**
+
+#CREDENTIALS
+db_conn_key.json
+
+#DATA
+*.csv
+
+#EXECUTABLES
+*.exe
+
+#WorkspaceFolder
+.vscode/*
